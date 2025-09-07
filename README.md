@@ -56,7 +56,7 @@
 
 ## 📬 Contact Me  
 📧 Email → **aditya836867@gmail.com**  
-💼 LinkedIn → *[Add your LinkedIn link here if you want]*  
+💼 LinkedIn → *linkedin.com/in/ayush-kumar-844818312*  
 
 ---
 

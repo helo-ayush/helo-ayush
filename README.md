@@ -1,4 +1,11 @@
 <div align="center">
+  # 👋 Hey there, I'm Ayush Kumar
+
+<img src="https://path_to_where_you_hosted_this_image.com/ayush_kumar_banner.png" alt="Ayush Kumar Ultimate Profile Banner" width="100%"/>
+
+*The ultimate fusion of AI, development, and creative design.*
+
+... rest of your README sections ...
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ayush%20Kumar&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
 
   <h3> 👨‍💻 Full-Stack Developer | AI Enthusiast | Creative Designer </h3>

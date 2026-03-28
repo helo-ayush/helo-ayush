@@ -1,30 +1,29 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=280&section=header&text=AYUSH%20KUMAR&fontSize=95&animation=fadeIn&fontAlignY=45&desc=NEURAL%20ARCHITECT%20|%20GEN-AI%20&%20RAG%20DEVELOPER&descAlignY=65&descSize=22&textBg=false" width="100%" />
+  <img src="https://raw.githubusercontent.com/helo-ayush/helo-ayush/main/banner.png" alt="Ayush Kumar Banner" width="100%" />
 
   <br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=Initializing+RAG+Architectures...;Orchestrating+LangGraph+Agents...;Building+Future+SaaS...;Designing+Intelligence+Flows..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=ARCHITECTING+RAG+SYSTEMS;LANGGRAPH+MULTI-AGENT+FLOWS;MERN+STACK+MASTER;AI%2FML+RESEARCHER" alt="Typing SVG" />
 
   <p align="center">
-    <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00FF00?style=for-the-badge&logo=github&logoColor=black" />
-    <img src="https://img.shields.io/badge/LOCATION-INDIA-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
-    <img src="https://img.shields.io/badge/FOCUS-GEN_AI-7952B3?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/INTEL-OPERATIONAL-00FF00?style=for-the-badge&logo=ai&logoColor=black" />
+    <img src="https://img.shields.io/badge/RANK-TOP_CONTRIBUTOR-blue?style=for-the-badge&logo=github&logoColor=white" />
   </p>
 </div>
 
 ---
 
-### 🧬 The Intelligence Layer (About Me)
-<table align="center" style="border: none;">
+### 🧬 Neural Interface (About Me)
+<table align="center">
   <tr>
     <td width="55%" valign="top">
-      <p>🚀 <b>Mission Objective:</b> 2nd Year CSE Undergraduate bridge-building between <b>Deterministic Code</b> and <b>Probabilistic Intelligence</b>.</p>
-      <p>🧠 <b>GenAI Specialist:</b> Crafting sophisticated <b>RAG (Retrieval-Augmented Generation)</b> pipelines. I architect workflows using <b>LangChain</b> and <b>LangGraph</b> for stateful, multi-agent systems.</p>
-      <p>🛠️ <b>Current Research:</b> Deep-diving into <b>AI/ML fundamentals</b> to optimize the weights of the future.</p>
+      <p>🚀 <b>Identity:</b> 2nd Year CSE Undergraduate specializing in the intersection of <b>Artificial Intelligence</b> and <b>Full-Stack Architectures</b>.</p>
+      <p>🧠 <b>Specialization:</b> Expertly building <b>RAG (Retrieval-Augmented Generation)</b> pipelines. I orchestrate complex, stateful multi-agent workflows using <b>LangChain</b> and <b>LangGraph</b>.</p>
+      <p>🎨 <b>Creative Layer:</b> Leveraging a professional background in <b>UI/UX & Adobe Creative Suite</b> to build AI tools that aren't just powerful, but beautiful.</p>
     </td>
     <td width="45%" valign="top">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helo-ayush&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=6" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helo-ayush&layout=compact&theme=vision-friendly-dark&hide_border=true&border_radius=10" width="100%" />
       </div>
     </td>
   </tr>
@@ -32,30 +31,52 @@
 
 ---
 
-### 🛠️ The Tech Arsenal
+### 🛡️ The Tech Arsenal
 
-#### 🤖 Generative AI & Orchestration
+<p align="left"><b>🤖 Intelligence Architecture</b></p>
 <p align="left">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=graph&logoColor=cyan" />
-  <img src="https://img.shields.io/badge/RAG_Systems-FF4B4B?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vector_DB-00D1FF?style=for-the-badge&logo=pinecone&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,fastapi" />
 </p>
 
-#### 🌐 Web & Logic
+<p align="left"><b>🌐 Full-Stack Ecosystem</b></p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,tailwind,threejs,vite,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,tailwind,threejs,vite" />
 </p>
 
-#### 🎨 Creative Core
+<p align="left"><b>🎨 Creative Suite</b></p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ae,pr,ai,canva" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,ae,pr,ai" />
 </p>
 
 ---
 
-### 🏗️ Deployment Logs (Key Projects)
+### 🏗️ Major Project Deployments
 
-| Project | Description | Core Stack |
-| :--- | :--- | :--- |
-| **🏆 AI SaaS Hub** | A master framework for AI tools
+> [!IMPORTANT]
+> ### 🏆 Multi-Agent RAG Framework
+> A cutting-edge deployment using **LangGraph** for autonomous agent collaboration and **LangChain** for context-aware data retrieval. This represents the peak of my current AI work.
+
+---
+
+### 📊 System Analytics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=helo-ayush&show_icons=true&theme=dark&border_radius=10&count_private=true" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=helo-ayush&theme=dark&border_radius=10" height="180em" />
+</div>
+
+---
+
+### 📡 Establish Connection
+<div align="center">
+  <a href="https://linkedin.com/in/ayush-kumar-844818312">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:aditya836867@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=helo-ayush&color=00F2FF&style=flat-square&label=VISITOR+COUNT" />
+</div>

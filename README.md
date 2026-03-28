@@ -1,7 +1,9 @@
 <div align="center">
-  <img src="https://path_to_where_you_hosted_this_image.com/ayush_kumar_banner.png" alt="Ayush Kumar // Neural Architect Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=DEDCDA&height=250&section=header&text=AYUSH%20KUMAR&fontSize=80&fontColor=1A1A1B&animation=fadeIn&fontAlignY=40&desc=GEN-AI%20ARCHITECT%20|%20FULL-STACK%20ENGINEER&descAlignY=62&descSize=20" width="100%" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=🧬Orchestrating+Stateful+Multi-Agent+Flows🧬" alt="Typing SVG" />
+  <br/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=🧬+Orchestrating+Multi-Agent+Flows;🤖+Building+State-of-the-Art+RAG;🚀+GenAI+%2B+MERN+Specialist;🛠️+Currently+Learning+AI/ML" alt="Typing SVG" />
 
   <p align="center">
     <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00FF00?style=for-the-badge&logo=github&logoColor=black" />
@@ -11,21 +13,22 @@
 
 ---
 
-### 🧬 The Neural Core (About Me)
+### 🧬 Neural Interface (About Me)
 <table align="center" style="border: none;">
   <tr>
-    <td width="60%" valign="top">
-      <p>🚀 <b>Mission Objective:</b> 2nd Year CSE Undergraduate bridge building between <b>Deterministic Code</b> and <b>Probabilistic Intelligence</b>.</p>
-      <p>🧠 <b>GenAI Specialist:</b> Crafting sophisticated RAG (Retrieval-Augmented Generation) pipelines. I don't just prompt; I architect workflows using <b>LangChain</b> and <b>LangGraph</b> for stateful, multi-agent systems.</p>
-      <p>🛠️ <b>Current Research:</b> Deep-diving into AI/ML fundamentals to optimize the weights of the future.</p>
+    <td width="55%" valign="top">
+      <p>🚀 <b>Current Directive:</b> 2nd Year CSE Undergraduate bridging the gap between <b>Deterministic Code</b> and <b>Probabilistic Intelligence</b>.</p>
+      <p>🧠 <b>Gen-AI Mastery:</b> I architect advanced <b>RAG (Retrieval-Augmented Generation)</b> pipelines and multi-agent systems using <b>LangChain</b> and <b>LangGraph</b>.</p>
+      <p>🎨 <b>Creative Logic:</b> Leveraging my background in <b>UI/UX (Figma)</b> and <b>Adobe Creative Suite</b> to build tools that are as beautiful as they are intelligent.</p>
     </td>
-    <td width="40%" valign="top">
+    <td width="45%" valign="top">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helo-ayush&layout=compact&theme=vision-friendly-dark&hide_border=true" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helo-ayush&layout=compact&theme=transparent&hide_border=true&title_color=61DAFB&text_color=ffffff&cache_seconds=1800" width="100%" />
       </div>
     </td>
   </tr>
 </table>
+
 ---
 
 ### 🛡️ The Tech Arsenal
@@ -51,14 +54,14 @@
 
 > [!IMPORTANT]
 > ### 🏆 Multi-Agent RAG Framework
-> A cutting-edge deployment using **LangGraph** for autonomous agent collaboration and **LangChain** for context-aware data retrieval.
+> A cutting-edge deployment using **LangGraph** for autonomous agent collaboration and **LangChain** for context-aware data retrieval. This is my current flagship project.
 
 ---
 
-### 📊 System Performance (Live Metrics)
+### 📊 System Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=helo-ayush&show_icons=true&theme=dracula&border_radius=15&count_private=true&hide_border=true" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=helo-ayush&theme=dracula&border_radius=15&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=helo-ayush&show_icons=true&theme=transparent&hide_border=true&title_color=61DAFB&icon_color=61DAFB&text_color=ffffff&cache_seconds=1800" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=helo-ayush&theme=transparent&hide_border=true&stroke=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" height="180em" />
 </div>
 
 ---
@@ -75,5 +78,5 @@
 
 <br/>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=helo-ayush&color=00F2FF&style=flat-square&label=CORE+SESSIONS" />
+  <img src="https://komarev.com/ghpvc/?username=helo-ayush&color=61DAFB&style=flat-square&label=NEURAL_VISITS" />
 </div>

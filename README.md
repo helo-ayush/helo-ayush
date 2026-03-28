@@ -1,34 +1,31 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:0051ff,100:7000ff&height=280&section=header&text=AYUSH%20KUMAR&fontSize=90&animation=fadeIn&fontAlignY=38&desc=NEURAL%20ARCHITECT%20|%20GEN-AI%20EXPLORER&descAlignY=58&descSize=22" width="100%" />
+  <img src="https://path_to_where_you_hosted_this_image.com/ayush_kumar_banner.png" alt="Ayush Kumar // Neural Architect Banner" width="100%"/>
 
-  <br/>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=Building+Advanced+RAG+Systems...;Orchestrating+LangGraph+Agents...;Designing+SaaS+Futures...;Learning+Neural+Networks..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=🧬Orchestrating+Stateful+Multi-Agent+Flows🧬" alt="Typing SVG" />
 
   <p align="center">
-    <img src="https://img.shields.io/badge/INTEL-OPERATIONAL-00FF00?style=for-the-badge&logo=ai&logoColor=black" />
-    <img src="https://img.shields.io/badge/RANK-TOP_CONTRIBUTOR-blue?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00FF00?style=for-the-badge&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/LOCATION-INDIA-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
   </p>
 </div>
 
 ---
 
-### 🧬 Neural Interface (About Me)
-<table align="center" style="border: none; background: transparent;">
+### 🧬 The Neural Core (About Me)
+<table align="center" style="border: none;">
   <tr>
-    <td width="55%" valign="top">
-      <p>🚀 <b>Current Directive:</b> 2nd Year CSE Undergrad bridging the gap between <b>Deterministic Systems</b> and <b>Probabilistic Intelligence</b>.</p>
-      <p>🧠 <b>Gen-AI Mastery:</b> Architecting <b>RAG (Retrieval-Augmented Generation)</b> pipelines. I orchestrate complex, stateful multi-agent workflows using <b>LangChain</b> and <b>LangGraph</b>.</p>
-      <p>🎨 <b>Design Logic:</b> Leveraging a professional background in <b>UI/UX (Figma)</b> and <b>Adobe Creative Suite</b> to build tools that look as smart as they feel.</p>
+    <td width="60%" valign="top">
+      <p>🚀 <b>Mission Objective:</b> 2nd Year CSE Undergraduate bridge building between <b>Deterministic Code</b> and <b>Probabilistic Intelligence</b>.</p>
+      <p>🧠 <b>GenAI Specialist:</b> Crafting sophisticated RAG (Retrieval-Augmented Generation) pipelines. I don't just prompt; I architect workflows using <b>LangChain</b> and <b>LangGraph</b> for stateful, multi-agent systems.</p>
+      <p>🛠️ <b>Current Research:</b> Deep-diving into AI/ML fundamentals to optimize the weights of the future.</p>
     </td>
-    <td width="45%" valign="top">
+    <td width="40%" valign="top">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helo-ayush&layout=compact&theme=dracula&hide_border=true&border_radius=15" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helo-ayush&layout=compact&theme=vision-friendly-dark&hide_border=true" width="100%" />
       </div>
     </td>
   </tr>
 </table>
-
 ---
 
 ### 🛡️ The Tech Arsenal

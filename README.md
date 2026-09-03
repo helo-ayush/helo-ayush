@@ -1,9 +1,11 @@
 <div align="center">
-  <!-- Dynamic Gradient Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FF,50:4D00FF,100:8A00FF&height=260&section=header&text=AYUSH%20KUMAR&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Gen-AI%20%26%20Vision%20Architect%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=62&descSize=20&descColor=00F2FF" width="100%" alt="Ayush Kumar Header" />
+  <!-- In-Repo Self-Hosted High-Resolution Cyberpunk Banner -->
+  <img src="https://raw.githubusercontent.com/helo-ayush/helo-ayush/main/header.svg" width="100%" alt="Ayush Kumar Header" />
+
+  <br/><br/>
 
   <!-- Animated Typing Subtitle -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00F2FF&center=true&vCenter=true&width=650&lines=Building+Real-Time+Client-Side+AI+with+WASM...;Architecting+Stateful+Multi-Agent+RAG+Pipelines...;Engineering+High-Performance+Full-Stack+Systems...;Crafting+Pixel-Perfect+Modern+UI%2FUX..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FF&center=true&vCenter=true&width=650&lines=Building+Real-Time+Client-Side+AI+with+WASM...;Architecting+Stateful+Multi-Agent+RAG+Pipelines...;Engineering+High-Performance+Full-Stack+Systems...;Crafting+Pixel-Perfect+Modern+UI%2FUX..." alt="Typing SVG" />
 
   <br/>
 
@@ -32,17 +34,11 @@
 
 ### 🧬 About Me
 
-```yaml
-identity:
-  name: Ayush Kumar
-  education: Computer Science & Engineering Undergraduate (2nd Year)
-  core_mission: "Bridging deterministic systems with probabilistic intelligence"
-  current_focus:
-    - "On-Device / Client-Side Neural Inference (ONNX WebAssembly, WebGPU)"
-    - "Autonomous Multi-Agent Orchestration (LangChain, LangGraph, RAG)"
-    - "Modern Scalable Full-Stack Engineering (React, Next.js, FastAPI)"
-  design_philosophy: "Tools should look as smart, fluid, and futuristic as the models driving them."
-```
+- 🎓 **Undergraduate**: 2nd Year Computer Science & Engineering student bridging deterministic architectures with probabilistic intelligence.
+- 🧠 **On-Device Vision & Neural Inference**: Specializing in high-performance client-side inference using **ONNX Runtime Web (WASM)** and computer vision models (e.g., OpenCV YuNet).
+- 🤖 **Autonomous Multi-Agent Systems**: Engineering stateful multi-agent workflows, contextual **RAG** pipelines, and graph-based reasoning with **LangGraph** and **LangChain**.
+- 💻 **Full-Stack Engineering**: Developing responsive, scalable web applications with **React**, **Next.js**, **FastAPI**, and **Node.js**.
+- 🎨 **Design Philosophy**: Product-grade UI/UX designed in **Figma** with modern fluid motion and futuristic dark aesthetics.
 
 ---
 
@@ -101,12 +97,15 @@ identity:
 ### 📊 System Performance & Live Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=helo-ayush&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00f2ff&icon_color=7000ff&text_color=c9d1d9&border_radius=12" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=helo-ayush&hide_border=true&background=0d1117&ring=00f2ff&fire=7000ff&currStreakLabel=00f2ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&border_radius=12" height="175" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=helo-ayush&theme=tokyonight&hide_border=true&background=0d1117&ring=00f2ff&fire=7000ff&currStreakLabel=00f2ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&border_radius=12" height="175" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=helo-ayush&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00f2ff&icon_color=7000ff&text_color=c9d1d9&border_radius=12" height="175" alt="GitHub Stats" />
 </div>
 
-<div align="center" style="margin-top: 15px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helo-ayush&layout=compact&hide_border=true&bg_color=0d1117&title_color=00f2ff&text_color=c9d1d9&border_radius=12" width="380" alt="Top Languages" />
+<br/>
+
+<div align="center">
+  <p><b>📈 Contribution Activity</b></p>
+  <img src="https://ghchart.rshah.org/00f2ff/helo-ayush" width="100%" alt="Ayush's GitHub Contributions Chart" />
 </div>
 
 ---
